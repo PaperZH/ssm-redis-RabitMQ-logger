@@ -24,7 +24,7 @@
     "vue-html-loader": "^1.2.4",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1",
-    "xlsx": "^0.13.1"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
